@@ -1,5 +1,5 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("gott mit uns");
+    System.out.println("gott mit uns!");
   }
 }
